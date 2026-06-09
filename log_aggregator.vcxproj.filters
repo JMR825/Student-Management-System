@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Codes\my-app\DSA c++\finance_tracker\Log-Aggregator\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Codes\my-app\DSA c++\finance_tracker\Log-Aggregator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9D6036FE-82C6-3232-8F75-93675C5EF643}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
