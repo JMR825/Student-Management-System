@@ -119,6 +119,14 @@ int main()
     while(true)
     {
         std::cout<<"----MENU----"<<std::endl;
+        std::cout<<"1. Add Student: "<<std::endl;
+        std::cout<<"2. Update Student Details: "<<std::endl;
+        std::cout<<"3. Search Student details: "<<std::endl;
+        std::cout<<"4. Desplay Student Details: "<<std::endl;
+        std::cout<<"5. Delete Student  Details: "<<std::endl;
+        std::cout<<"---Else exit--- "<<std::endl;
+        
+        
         std::cin>>choice;
         switch(choice)
         {
