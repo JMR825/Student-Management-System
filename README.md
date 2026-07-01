@@ -1,6 +1,9 @@
 # Student Management System
 
 A console-based C++ application for managing student records with file-based persistence.
+## ScreenShots
+<p align="center"><img width="716" height="210"  alt="image" src="https://github.com/user-attachments/assets/10e68879-cb7e-4ca0-8efe-0caed8b5a633" /></p>
+<p align="center"> <img width="262" height="252" alt="image" src="https://github.com/user-attachments/assets/4482f2fd-5485-4bd2-93b3-fbb0cc3c1742" /></p>
 
 ## Features
 
