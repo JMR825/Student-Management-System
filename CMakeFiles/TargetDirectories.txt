@@ -1,5 +1,0 @@
-D:/Codes/my-app/DSA c++/finance_tracker/Log-Aggregator/Student Management System/CMakeFiles/log_aggregator.dir
-D:/Codes/my-app/DSA c++/finance_tracker/Log-Aggregator/Student Management System/CMakeFiles/ALL_BUILD.dir
-D:/Codes/my-app/DSA c++/finance_tracker/Log-Aggregator/Student Management System/CMakeFiles/ZERO_CHECK.dir
-D:/Codes/my-app/DSA c++/finance_tracker/Log-Aggregator/Student Management System/_deps/spdlog-build/CMakeFiles/spdlog.dir
-D:/Codes/my-app/DSA c++/finance_tracker/Log-Aggregator/Student Management System/_deps/spdlog-build/CMakeFiles/ALL_BUILD.dir

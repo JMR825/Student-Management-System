@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/Codes/my-app/DSA c++/finance_tracker/Log-Aggregator/Student Management System/cmake_install.cmake",
-		"D:/Codes/my-app/DSA c++/finance_tracker/Log-Aggregator/Student Management System/_deps/spdlog-build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
